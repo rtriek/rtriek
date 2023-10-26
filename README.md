@@ -6,6 +6,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -30,11 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
 
-<p align="left"></p>
 
 ###
+
+
 
 <div align="left">
   <a href="http://discordapp.com/users/1129532968709398548" target="_blank">
