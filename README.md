@@ -1,11 +1,11 @@
 ### Hi There 👋
 
 
-<p align="center">Rania | Software engineer | Algeria</p>
+<h2 align="center">Rania | Software engineer | Algeria</h2>
 
 ###
 
-<p align="left">Languages and Tools:</p>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
