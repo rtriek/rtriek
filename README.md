@@ -1,11 +1,5 @@
 ### Hello World 👋
 
-<!--
-**Rania345/Rania345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 ###
 
 <p align="center">Rania | Software engineer | Algeria</p>
