@@ -1,11 +1,13 @@
-### Hello World 👋
+### Hi There 👋
 
 
 <p align="center">Rania | Software engineer | Algeria</p>
 
-
 ###
 
+<p align="left">Languages and Tools:</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -33,8 +35,9 @@
 
 ###
 
+<p align="left">Connect with me:</p>
 
-
+###
 
 <div align="left">
   <a href="http://discordapp.com/users/1129532968709398548" target="_blank">
