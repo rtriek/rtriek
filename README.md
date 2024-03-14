@@ -65,3 +65,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rania345/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Rania345/Rania345/output/snake.svg" alt="Snake animation" />
+
+###
