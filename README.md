@@ -62,3 +62,6 @@
 </div>
 
 ###
+<h4 align="left">My lovely snake:</h4>
+
+<img src="https://github.com/rania345/rania345/blob/main/dist/github-snake.svg" alt="GitHub Snake" width="1000"/>
