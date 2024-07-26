@@ -80,3 +80,15 @@
 <img src="https://raw.githubusercontent.com/Rania345/Rania345/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <span style="margin-right: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=rania345&label=Profile+views&color=blue&style=flat&abbreviated=0" alt="Profile views"/>
+  </span>
+  <span style="margin-right: 20px;">
+    <img src="https://img.shields.io/github/followers/rania345?style=flat" alt="GitHub followers"/>
+  </span>
+  <span style="margin-right: 20px;">
+    <img src="https://img.shields.io/github/stars/rania345?style=flat" alt="GitHub User's stars"/>
+  </span>
+</div>
