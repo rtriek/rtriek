@@ -80,10 +80,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rania345/rania345/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <span style="margin-right: 20px;">
     <img src="https://komarev.com/ghpvc/?username=rania345&label=Profile+views&color=blue&style=flat&abbreviated=0" alt="Profile views"/>
