@@ -26,24 +26,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="35" height="35" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="35" height="35" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="35" alt="eslint logo"  />
   <img width="12" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="35" height="35" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="35" height="35" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="35" height="35" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
