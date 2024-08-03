@@ -79,7 +79,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rania345/Rania345/output/snake.svg" alt="Snake animation" />
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
 
 ###
 
