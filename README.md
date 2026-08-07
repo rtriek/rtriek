@@ -1,6 +1,6 @@
 ## Hello world 👋🏻
 
-<h1 align="center">Rania | Software Engineer | Algeria</h1>
+<h1 align="center">Rania | Web Developer | Algeria</h1>
 
 ###
 
