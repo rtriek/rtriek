@@ -72,3 +72,6 @@
     <img src="https://img.shields.io/github/stars/rtriek?style=flat" alt="GitHub User's stars"/>
   </span>
 </div>
+<br>
+<br>
+Made with ❤️ by Rania Triek
