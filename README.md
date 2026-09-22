@@ -4,16 +4,12 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats & Trophies:</h2>
+<h2 align="left">📊 GitHub Stats:</h2>
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=rtriek&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=rtriek&theme=default&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rtriek&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rtriek&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rania's GitHub Trophies" />
-</p>
 
 </div>
 
