@@ -1,6 +1,6 @@
 ## Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">
 
-<h1 align="center">Rania | Web Developer | Algeria</h1>
+<h1 align="center">Rania | Web Developer <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> | Algeria</h1>
 
 ###
 
